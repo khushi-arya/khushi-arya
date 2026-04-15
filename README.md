@@ -40,9 +40,9 @@ I'm a fresher passionate about building reliable, scalable backend systems. Curr
 
 > ⭐ Pin your best 3–4 repos below this section using GitHub's "Customize your pins" feature.
 
-| Project | Description | Stack |
+| Project | Link | Stack |
 |--------|-------------|-------|
-| [Project Name](#) | Brief one-line description | Java, Spring Boot, MySQL |
+| Ecommerce-Microservices | (https://github.com/khushi-arya/Ecommerce-Microservices.git) | Java, Spring Boot, MySQL |
 | [Project Name](#) | Brief one-line description | Spring Boot, MongoDB |
 | [Project Name](#) | Brief one-line description | REST API, PostgreSQL |
 

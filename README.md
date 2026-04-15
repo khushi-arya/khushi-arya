@@ -43,8 +43,8 @@ I'm a fresher passionate about building reliable, scalable backend systems. Curr
 | Project | Link | Stack |
 |--------|-------------|-------|
 | Ecommerce-Microservices | (https://github.com/khushi-arya/Ecommerce-Microservices.git) | Java, Spring Boot, MySQL |
-| [Project Name](#) | Brief one-line description | Spring Boot, MongoDB |
-| [Project Name](#) | Brief one-line description | REST API, PostgreSQL |
+| Digital-wallet-system |(https://github.com/khushi-arya/Digital-wallet-system.git) | Spring Boot, MongoDB |
+| WebTesting UI |(https://github.com/khushi-arya/WebTesting) | webUI testing Automation project (Springboot , selinium) |
 
 ---
 

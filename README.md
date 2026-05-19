@@ -48,12 +48,6 @@ I'm a fresher passionate about building reliable, scalable backend systems. Curr
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=khushi-arya&show_icons=true&theme=default&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi-arya&layout=compact&theme=default&hide_border=true" height="160"/>
-</p>
 
 ---
 

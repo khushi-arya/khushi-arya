@@ -70,8 +70,8 @@ Backend Software Engineer with **1+ year of experience** building production-gra
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**QueueCareSystem**](https://github.com/khushi-arya) | Full-stack healthcare platform with appointment booking and real-time queue tracking. Implements JWT auth, RBAC, and 12+ documented REST APIs. | ReactJS · TypeScript · Spring Boot · MySQL · Docker |
-| [**ResumeBuilder**](https://github.com/khushi-arya) | Resume builder with real-time preview, customizable templates, and browser-based PDF generation. RESTful Spring Boot backend with MySQL. | ReactJS · TypeScript · Spring Boot · Java |
+| [**QueueCareSystem**](https://github.com/khushi-arya/Queuecaresystem) | Full-stack healthcare platform with appointment booking and real-time queue tracking. Implements JWT auth, RBAC, and 12+ documented REST APIs. | ReactJS · TypeScript · Spring Boot · MySQL · Docker |
+| [**ResumeBuilder**](https://github.com/khushi-arya/ResumeBuilder) | Resume builder with real-time preview, customizable templates, and browser-based PDF generation. RESTful Spring Boot backend with MySQL. | ReactJS · TypeScript · Spring Boot · Java |
 | [**Ecommerce-Microservices**](https://github.com/khushi-arya/Ecommerce-Microservices) | Microservices-based e-commerce backend with service decomposition and inter-service communication. | Java · Spring Boot · MySQL |
 | [**Digital Wallet System**](https://github.com/khushi-arya/Digital-wallet-system) | Backend system for managing digital wallet transactions and balances. | Spring Boot · MongoDB |
 

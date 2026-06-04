@@ -83,13 +83,4 @@ Backend Software Engineer with **1+ year of experience** building production-gra
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khushi-arya&show_icons=true&theme=default&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi-arya&layout=compact&hide_border=true" height="150" />
-</p>
-
----
-
 <p align="center"><i>"First, solve the problem. Then, write the code." – John Johnson</i></p>

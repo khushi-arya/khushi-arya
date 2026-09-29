@@ -65,13 +65,12 @@ Backend Software Engineer with **1+ year of experience** building production-gra
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 ---
+**Project	Description	Tech Stack**
+**blog-platform** Full-stack blogging platform with user registration, authentication, and CRUD operations for posts and comments. Built a React 19 + Vite frontend with a REST API using Express and MongoDB. Implemented JWT-based authentication with protected routes on both the client and server.**|**	Node.js, Express, React 19, MongoDB, JWT
+**SecureFileVault** Secure zero-trust file storage REST API built with Spring Boot. Files are GZIP-compressed and then encrypted using AES-256-GCM before being uploaded to cloud storage. Uses PostgreSQL for metadata management and Gmail SMTP for file-access instructions. Deployed on Render. Implements compression-before-encryption to ensure compression is effective before encryption transforms the data into high-entropy ciphertext.**|** Java 21, Spring Boot, AES-256-GCM, Supabase, PostgreSQL, Gmail SMTP
 
-🚀 Featured Projects
-Project	Description	Tech Stack
-blog-platform
-	Full-stack blogging platform that allows users to register, log in, and create, edit, and delete posts and comments. Built a React 19 + Vite frontend with a REST API powered by Express and MongoDB. Implemented JWT-based authentication and protected routes on both the client and server.	Node.js, Express, React 19, MongoDB, JWT
-SecureFileVault
-	Secure zero-trust file storage REST API built with Spring Boot. Files are GZIP-compressed and then encrypted using AES-256-GCM before being uploaded to cloud storage. PostgreSQL is used for metadata management, while Gmail SMTP sends file-access instructions. Deployed on Render. Designed the compression-before-encryption pipeline because encrypted data is high-entropy and cannot be effectively compressed afterward.	Java 21, Spring Boot, AES-256-GCM, Supabase, PostgreSQL, Gmail SMTP, Authenticated Encryption
+
+	
 ## 🏅 Certifications
 
 - 🎖️ **GitLab CI/CD** — Udemy

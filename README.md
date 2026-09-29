@@ -66,19 +66,12 @@ Backend Software Engineer with **1+ year of experience** building production-gra
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**blog-platform**](https://github.com/khushi-arya/blog-platform.git) | Built a full-stack blogging platform where users can register, log in, and create, edit, and delete posts and comments, using React 19 and Vite on the frontend and a REST API on Express and MongoDB.Implemented JWT-based authentication with
-protected routes on both client and server.  |Node.js, Express, Reactjs , MongoDB, JWT |
-| [**SecureFileVault**](https://github.com/khushi-arya/SecureFileVault.git) | Built a Spring Boot REST API for zero-trust file storage where files are GZIP-compressed then AES-256-GCM encrypted before reaching cloud storage, so a breach of the storage layer leaks nothing without the user’s password. Used PostgreSQL for metadata
-tracking and Gmail SMTP for file access instructions; deployed on Render. Solved the compression-before-encryption ordering
-problem: encrypted data is high-entropy noise and cannot be compressed after the fact, so compression must happen first to
-have any effect. | Java 21, Spring Boot, AES-256-GCM, Supabase, PostgreSQL, Authenticated Encryption |
-
----
-
+🚀 Featured Projects
+Project	Description	Tech Stack
+blog-platform
+	Full-stack blogging platform that allows users to register, log in, and create, edit, and delete posts and comments. Built a React 19 + Vite frontend with a REST API powered by Express and MongoDB. Implemented JWT-based authentication and protected routes on both the client and server.	Node.js, Express, React 19, MongoDB, JWT
+SecureFileVault
+	Secure zero-trust file storage REST API built with Spring Boot. Files are GZIP-compressed and then encrypted using AES-256-GCM before being uploaded to cloud storage. PostgreSQL is used for metadata management, while Gmail SMTP sends file-access instructions. Deployed on Render. Designed the compression-before-encryption pipeline because encrypted data is high-entropy and cannot be effectively compressed afterward.	Java 21, Spring Boot, AES-256-GCM, Supabase, PostgreSQL, Gmail SMTP, Authenticated Encryption
 ## 🏅 Certifications
 
 - 🎖️ **GitLab CI/CD** — Udemy

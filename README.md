@@ -70,10 +70,12 @@ Backend Software Engineer with **1+ year of experience** building production-gra
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**QueueCareSystem**](https://github.com/khushi-arya/Queuecaresystem) | Full-stack healthcare platform with appointment booking and real-time queue tracking. Implements JWT auth, RBAC, and 12+ documented REST APIs. | ReactJS · TypeScript · Spring Boot · MySQL · Docker |
-| [**ResumeBuilder**](https://github.com/khushi-arya/ResumeBuilder) | Resume builder with real-time preview, customizable templates, and browser-based PDF generation. RESTful Spring Boot backend with MySQL. | ReactJS · TypeScript · Spring Boot · Java |
-| [**Ecommerce-Microservices**](https://github.com/khushi-arya/Ecommerce-Microservices) | Microservices-based e-commerce backend with service decomposition and inter-service communication. | Java · Spring Boot · MySQL |
-| [**Digital Wallet System**](https://github.com/khushi-arya/Digital-wallet-system) | Backend system for managing digital wallet transactions and balances. | Spring Boot · MongoDB |
+| [**blog-platform**](https://github.com/khushi-arya/blog-platform.git) | Built a full-stack blogging platform where users can register, log in, and create, edit, and delete posts and comments, using React 19 and Vite on the frontend and a REST API on Express and MongoDB.Implemented JWT-based authentication with
+protected routes on both client and server.  |Node.js, Express, Reactjs , MongoDB, JWT |
+| [**SecureFileVault**](https://github.com/khushi-arya/SecureFileVault.git) | Built a Spring Boot REST API for zero-trust file storage where files are GZIP-compressed then AES-256-GCM encrypted before reaching cloud storage, so a breach of the storage layer leaks nothing without the user’s password. Used PostgreSQL for metadata
+tracking and Gmail SMTP for file access instructions; deployed on Render. Solved the compression-before-encryption ordering
+problem: encrypted data is high-entropy noise and cannot be compressed after the fact, so compression must happen first to
+have any effect. | Java 21, Spring Boot, AES-256-GCM, Supabase, PostgreSQL, Authenticated Encryption |
 
 ---
 
